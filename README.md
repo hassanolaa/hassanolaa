@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Abdelkhalek</h1>
-<h3 align="center">Software engineer | Flutter team lead developer | Embedded system engineer</h3>
+<h3 align="center">Software engineer </h3>
 
 - 👨‍💻 All of my projects are available at [https://hassanola.me/](https://hassanola.me/)
 
